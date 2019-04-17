@@ -1,0 +1,4 @@
+1 2 45 65 Urgosa_the_Healing_Shaman
+0 0 50 70 pan
+2 5 55 66 bob
+1 7 70 90 Ygorn
